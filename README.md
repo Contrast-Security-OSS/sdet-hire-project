@@ -4,7 +4,7 @@ The goal of this project is to create a conversation similar to one you would ex
 
 As you are considering your approach, keep in mind that we are looking for the following:
 
-* One or more well written defect tickets
+* One or more well written defect tickets.
 * One or more automated tests on different levels.
 * Distinction in the different kinds of testing.
 
@@ -14,19 +14,19 @@ After the code review of this project you will have a strong understanding of wh
 
 # The Project
 
-The project works has two components 
+The project has two components
 
 Black box testing:
 
-* Install the Contrast Security agent and test the Community Addition
+* Install the Contrast Security agent on an open source web application (using the [Community Edition](https://www.contrastsecurity.com/contrast-community-edition))
 	* Report one or more defects in writing such that an engineer is likely to be able to repair the problem.
 	* Create one or more tests to demonstrate the issue.
 	* Create one or more API tests to demonstrate the issue. 
 
 White box testing:
 
-* Install the purposely vulneralbe open source WebGoat application.
-  * Report one or more defects in writing to the opensource WebGoat project
+* Install the purposely vulnerable open source WebGoat application.
+  * Report one or more defects in writing to the open source WebGoat project
   * Create one or more automated unit or integration tests and make a pull request to Webgoat.
 
 **Important:** Our expectation is this project will take approximately 4 to 6 hours. You are free to use more or less time.
@@ -57,11 +57,11 @@ What is important is how you communicate the defect in writing. Things like repr
 
 #### Writing Tests
 
-You are welcome to write tests that directly exercise the UI, however we are specifically interested in your ability to work with our API. PLease ensure you write one or more tests that exercise the API in a way that shows off the defect.
+You are welcome to write tests that directly exercise the UI, however we are specifically interested in your ability to work with our API. Please ensure you write one or more tests that exercise the API in a way that shows off the defect.
 
 ### WebGoat and White Box Testing
 
-The purpose of this phase of the project is to provide you with a Java code base where you can create a unit, functional or integration test below and API layer.   
+The purpose of this phase of the project is to provide you with a Java code base where you can create a unit, functional or integration test below an API layer.   
 
 The [code for WebGoat](https://github.com/WebGoat/WebGoat) is also on Github. There is an existing integration test suite in place and there are a number of issues already reported on this project. 
 
@@ -75,7 +75,4 @@ We work in a remote environment. High fidelity written communication is the key 
 
 # Feedback
 
-If you find problems with these directions being unclear, make a PR on this project with a fix. 
-
-
-
+If you find problems with these directions being unclear, make a PR on this project with a fix.

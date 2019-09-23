@@ -25,7 +25,7 @@ Black box testing:
 
 White box testing:
 
-* Install the purposely vulerable open source WebGoat application.
+* Install the purposely vulnerable open source WebGoat application.
   * Report one or more defects in writing to the open source WebGoat project
   * Create one or more automated unit or integration tests and make a pull request to Webgoat.
 
